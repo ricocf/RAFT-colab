@@ -9,8 +9,7 @@ Seems to be very good: [Optical Flow Estimation Benchmark](https://paperswithcod
 
 **Paper:** [RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039)
 
-**OG Repo:** [princeton-vl/RAFT](https://github.com/princeton-vl/RAFT)
-**OG Repo:** https://github.com/shafu0x/opical-flow-estimation-with-RAFT
+**OG Repo:** [princeton-vl/RAFT](https://github.com/princeton-vl/RAFT) , [shafu0x](https://github.com/shafu0x/opical-flow-estimation-with-RAFT)
 
 
 ## Requirements
